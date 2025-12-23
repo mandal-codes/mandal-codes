@@ -17,7 +17,8 @@ Swift, SwiftUI, UIKit, Combine, async/await, XCTest, CoreData/SQLite, REST, Git,
 
 ## Contact
 - Email: mandal.shubham.work@gmail.com
-- LinkedIn: <www.linkedin.com/in/theshubhammandal>
+- LinkedIn: www.linkedin.com/in/theshubhammandal
+- Mobile: +91 8800843150
 - Location: Hyderabad, India
 <!--
 **mandal-codes/mandal-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
